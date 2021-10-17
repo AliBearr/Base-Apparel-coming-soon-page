@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: $josefin-sans, $sans-serif;
+  font-size: var(fs-body);
+  min-height: 100vh;
+  position: relative;
+}
+
+.wrapper {
+  @include for-tablet {
+    width: 55%;
+  }
+}
+
+.container {
+  max-width: 445px;
+  margin: 0 auto;
+  @include for-phone {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}

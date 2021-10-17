@@ -1,0 +1,10 @@
+.header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  &__logo {
+    height: 1.305rem;
+    @include for-tablet {
+      height: 2rem;
+    }
+  }
+}

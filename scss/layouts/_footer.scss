@@ -1,0 +1,19 @@
+//Footer
+footer {
+  justify-self: center;
+  @include for-tablet {
+    justify-self: start;
+  }
+
+  .my-link {
+    padding: 1rem;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+//Footer Buttons

@@ -1,0 +1,12 @@
+.main {
+  &__hero {
+    text-align: center;
+    @include for-tablet {
+      text-align: start;
+    }
+  }
+  justify-self: center;
+  @include for-tablet {
+    justify-self: start;
+  }
+}
