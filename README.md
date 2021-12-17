@@ -1,7 +1,7 @@
 # Base Apparel coming soon page
 
-![github repo size](https://img.shields.io/github/repo-size/AliABUHAMRA/Base-Apparel-coming-soon-page)
-![github contributors](https://img.shields.io/github/contributors/AliABUHAMRA/Base-Apparel-coming-soon-page)
+![github repo size](https://img.shields.io/github/repo-size/AliABUHuMRA/Base-Apparel-coming-soon-page)
+![github contributors](https://img.shields.io/github/contributors/AliABUHuMRA/Base-Apparel-coming-soon-page)
 ![github twiter](https://img.shields.io/twitter/follow/AliAbuhumra?style=social)
 
 ## Welcome! 👋
